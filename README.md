@@ -13,9 +13,9 @@
 
 <p>Screenshot :</p>
 
-<p><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/pixelspotdetect_itenas_ac_id_.png" style="height:436px; width:500px" /></p>
+<p><img alt="" src="https://i.ibb.co/NjGRPKn/pixelspotdetect-itenas-ac-id-video-detect.png" style="height:436px; width:500px" /></p>
 
-<p><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/pixelspotdetect_itenas_ac_id_video-detect.png" style="height:436px; width:500px" /></p>
+<p><img alt="" src="https://i.ibb.co/g91qWvh/pixelspotdetect-itenas-ac-id.png" style="height:436px; width:500px" /></p>
 
 <p>Notes :<br />
 There are several things you need to pay attention to when using this website:</p>
