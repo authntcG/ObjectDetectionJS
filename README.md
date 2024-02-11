@@ -13,9 +13,8 @@
 
 <p>Screenshot :</p>
 
-<p><img alt="" src="https://i.ibb.co/NjGRPKn/pixelspotdetect-itenas-ac-id-video-detect.png" style="height:436px; width:500px" /></p>
-
-<p><img alt="" src="https://i.ibb.co/g91qWvh/pixelspotdetect-itenas-ac-id.png" style="height:436px; width:500px" /></p>
+<a href="https://ibb.co/mqPpw4F" target="_blank"><img src="https://i.ibb.co/NjGRPKn/pixelspotdetect-itenas-ac-id-video-detect.png" alt="pixelspotdetect-itenas-ac-id-video-detect" border="0"></a>
+<a href="https://ibb.co/c35f8bV" target="_blank"><img src="https://i.ibb.co/g91qWvh/pixelspotdetect-itenas-ac-id.png" alt="pixelspotdetect-itenas-ac-id" border="0"></a>
 
 <p>Notes :<br />
 There are several things you need to pay attention to when using this website:</p>
