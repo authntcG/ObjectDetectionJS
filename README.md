@@ -1,7 +1,6 @@
-<h1 style="text-align:center"><span style="font-family:Arial,Helvetica,sans-serif"><strong>Simple Web-Based Object Detection</strong></span></h1>
+<h1><span style="font-family:Arial,Helvetica,sans-serif"><strong>Simple Web-Based Object Detection</strong></span></h1>
 
-<hr />
-<p>Description :</p>
+<h2>Description</h2>
 
 <p>This website was created with the aim of detecting objects using any device that can access a browser and camera. This website was created using:</p>
 
@@ -11,12 +10,25 @@
 	<li>Single Shot Detector, as the pre-trained model used.</li>
 </ul>
 
-<p>Screenshot :</p>
+<h2>Screenshot</h2>
+<details>
+<summary>Running on desktop 🖥️</summary>
+    <p align="center">
+        <a href="https://ibb.co.com/h9sjv52"><img src="https://i.ibb.co.com/vq1G85L/chrome-capture-2024-8-1.gif" alt="chrome-capture-2024-8-1" border="0"></a>
+        <a href="https://ibb.co/c35f8bV" target="_blank"><img src="https://i.ibb.co/g91qWvh/pixelspotdetect-itenas-ac-id.png" alt="pixelspotdetect-itenas-ac-id" border="0"></a>
+        <a href="https://ibb.co/mqPpw4F" target="_blank"><img src="https://i.ibb.co/NjGRPKn/pixelspotdetect-itenas-ac-id-video-detect.png" alt="pixelspotdetect-itenas-ac-id-video-detect" border="0"></a>
+    </p>
+</details>
 
-<a href="https://ibb.co/mqPpw4F" target="_blank"><img src="https://i.ibb.co/NjGRPKn/pixelspotdetect-itenas-ac-id-video-detect.png" alt="pixelspotdetect-itenas-ac-id-video-detect" border="0"></a>
-<a href="https://ibb.co/c35f8bV" target="_blank"><img src="https://i.ibb.co/g91qWvh/pixelspotdetect-itenas-ac-id.png" alt="pixelspotdetect-itenas-ac-id" border="0"></a>
+<details>
+<summary>Running on mobile 📱</summary>
+    <p align="center">
+        <a href="https://ibb.co.com/qRc31Z8"><img src="https://i.ibb.co.com/brCMdfV/Screenshot-20240802-110622-Chrome.jpg" alt="Screenshot-20240802-110622-Chrome" border="0" height="800"></a>
+        <a href="https://ibb.co.com/JCD3J8Z"><img src="https://i.ibb.co.com/HX5h8RZ/Screenshot-20240802-110723-Chrome.jpg" alt="Screenshot-20240802-110723-Chrome" border="0" height="800"></a>
+    </p>
+</details>
 
-<p>Notes :<br />
+<h2>Notes</h2>
 There are several things you need to pay attention to when using this website:</p>
 
 <ul>
@@ -26,15 +38,16 @@ There are several things you need to pay attention to when using this website:</
 	<li>If you find a bug in this application, please open an issue on this github page.</li>
 </ul>
 
-<p>Usage:<br />
+<h2>Usage</h2>
 There are several ways to run this program, namely locally and using the preview website provided.<br />
-Method 1: use the website preview</p>
+
+<strong>Method 1: use the website preview</strong>
 
 <ol>
 	<li>You can access a preview of this website on the page <a href="https://pixelspotdetect.itenas.ac.id/" target="_blank">https://pixelspotdetect.itenas.ac.id/</a></li>
 </ol>
 
-<p>Method 2: run locally</p>
+<strong>Method 2: run locally</strong>
 
 <ol>
 	<li>Download the latest program on the releases page</li>
